@@ -33,7 +33,7 @@
     "section": 2,
     "clause": 3,
     "text": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.2  The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.",
-    "relevantAmendments": 
+    "relevantAmendments":
     [
         {
             "amendment": 14,
@@ -519,7 +519,7 @@
     "section": 1,
     "clause": 6,
     "text": "In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office,9 the Same shall devolve on the VicePresident, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.",
-    "relevantAmendments": 
+    "relevantAmendments":
     [
         {
             "amendment": 20
@@ -735,56 +735,56 @@
 {
     "_id": "Article VII (edits to the constitution)",
     "article": 7,
-    "loc": "body",
+    "loc": "edits",
     "text": "The Word \"the\", being interlined between the seventh and eight Lines of the first Page, The Word \"Thirty\" being partly written on an Erazure in the fifteenth Line of the first Page. The Words \"is tried\" being interlined between the thirty second and thirty third Lines of the first Page and the Word \"the\" being interlined between the forty third and forty fourth Lines of the second Page."
 }
 {
     "_id": "Article VII (statement of assent)",
     "article": 7,
-    "loc": "body",
+    "loc": "assent",
     "text": "done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven and of the Independence of the United States of America the Twelfth In witness whereof We have hereunto subscribed our Names,",
-    "signatures": 
+    "signatures":
     [
-        { "signature": "Attest William Jackson Secretary"},
-        { "signature": "G: Washington -Presidt. and deputy from Virginia", "state": "Virginia"},
-        { "signature": "Geo: Read", "state": "Delaware"},
-        { "signature": "Gunning Bedford jun", "state": "Delaware"},
-        { "signature": "John Dickinson", "state": "Delaware"},
-        { "signature": "Richard Bassett", "state": "Delaware"},
-        { "signature": "Jaco: Broom", "state": "Delaware"},
-        { "signature": "James McHenry", "state": "Maryland"},
-        { "signature": "Dan of St Thos. Jenifer", "state": "Maryland"},
-        { "signature": "Danl Carroll.", "state": "Maryland"},
-        { "signature": "John Blair—", "state": "Virginia"},
-        { "signature": "James Madison Jr.", "state": "Virginia"},
-        { "signature": "Wm Blount", "state": "North Carolina"},
-        { "signature": "Richd. Dobbs Spaight.", "state": "North Carolina"},
-        { "signature": "Hu Williamson", "state": "North Carolina"},
-        { "signature": "J. Rutledge", "state": "South Carolina"},
-        { "signature": "Charles Cotesworth Pinckney", "state": "South Carolina"},
-        { "signature": "Charles Pinckney", "state": "South Carolina"},
-        { "signature": "Pierce Butler.", "state": "South Carolina"},
-        { "signature": "William Few", "state": "Georgia"},
-        { "signature": "Abr Baldwin", "state": "Georgia"},
-        { "signature": "John Langdon", "state": "New Hampshire"},
-        { "signature": "Nicholas Gilman", "state": "New Hampshire"},
-        { "signature": "Nicholas Gilman", "state": "New Hampshire"},
-        { "signature": "Nathaniel Gorham", "state": "Massachusetts"},
-        { "signature": "Rufus King", "state": "Massachusetts"},
-        { "signature": "Wm. Saml. Johnson", "state": "Connecticut"},
-        { "signature": "Roger Sherman", "state": "Connecticut"},
-        { "signature": "Alexander Hamilton", "state": "New York"},
-        { "signature": "Wil. Livingston", "state": "New Jersey"},
-        { "signature": "David Brearley.", "state": "New Jersey"},
-        { "signature": "Wm. Paterson.", "state": "New Jersey"},
-        { "signature": "Jona: Dayton", "state": "New Jersey"},
-        { "signature": "B Franklin", "state": "Pennsylvania"},
-        { "signature": "Thomas Mifflin", "state": "Pennsylvania"},
-        { "signature": "Robt Morris", "state": "Pennsylvania"},
-        { "signature": "Geo. Clymer", "state": "Pennsylvania"},
-        { "signature": "Thos. FitzSimons ", "state": "Pennsylvania"},
-        { "signature": "Jared Ingersoll ", "state": "Pennsylvania"},
-        { "signature": "James Wilson. ", "state": "Pennsylvania"},
-        { "signature": "Gouv Morris", "state": "Pennsylvania"}
+        { "signature": "Attest William Jackson Secretary" },
+        { "signature": "G: Washington -Presidt. and deputy from Virginia" },
+        { "signature": "Geo: Read", "state": "Delaware" },
+        { "signature": "Gunning Bedford jun", "state": "Delaware" },
+        { "signature": "John Dickinson", "state": "Delaware" },
+        { "signature": "Richard Bassett", "state": "Delaware" },
+        { "signature": "Jaco: Broom", "state": "Delaware" },
+        { "signature": "James McHenry", "state": "Maryland" },
+        { "signature": "Dan of St Thos. Jenifer", "state": "Maryland" },
+        { "signature": "Danl Carroll.", "state": "Maryland" },
+        { "signature": "John Blair—", "state": "Virginia" },
+        { "signature": "James Madison Jr.", "state": "Virginia" },
+        { "signature": "Wm Blount", "state": "North Carolina" },
+        { "signature": "Richd. Dobbs Spaight.", "state": "North Carolina" },
+        { "signature": "Hu Williamson", "state": "North Carolina" },
+        { "signature": "J. Rutledge", "state": "South Carolina" },
+        { "signature": "Charles Cotesworth Pinckney", "state": "South Carolina" },
+        { "signature": "Charles Pinckney", "state": "South Carolina" },
+        { "signature": "Pierce Butler.", "state": "South Carolina" },
+        { "signature": "William Few", "state": "Georgia" },
+        { "signature": "Abr Baldwin", "state": "Georgia" },
+        { "signature": "John Langdon", "state": "New Hampshire" },
+        { "signature": "Nicholas Gilman", "state": "New Hampshire" },
+        { "signature": "Nicholas Gilman", "state": "New Hampshire" },
+        { "signature": "Nathaniel Gorham", "state": "Massachusetts" },
+        { "signature": "Rufus King", "state": "Massachusetts" },
+        { "signature": "Wm. Saml. Johnson", "state": "Connecticut" },
+        { "signature": "Roger Sherman", "state": "Connecticut" },
+        { "signature": "Alexander Hamilton", "state": "New York" },
+        { "signature": "Wil. Livingston", "state": "New Jersey" },
+        { "signature": "David Brearley.", "state": "New Jersey" },
+        { "signature": "Wm. Paterson.", "state": "New Jersey" },
+        { "signature": "Jona: Dayton", "state": "New Jersey" },
+        { "signature": "B Franklin", "state": "Pennsylvania" },
+        { "signature": "Thomas Mifflin", "state": "Pennsylvania" },
+        { "signature": "Robt Morris", "state": "Pennsylvania" },
+        { "signature": "Geo. Clymer", "state": "Pennsylvania" },
+        { "signature": "Thos. FitzSimons ", "state": "Pennsylvania" },
+        { "signature": "Jared Ingersoll ", "state": "Pennsylvania" },
+        { "signature": "James Wilson. ", "state": "Pennsylvania" },
+        { "signature": "Gouv Morris", "state": "Pennsylvania" }
     ]
 }
