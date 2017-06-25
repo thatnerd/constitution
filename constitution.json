@@ -916,7 +916,7 @@
     "loc": "amendments",
     "article": 14,
     "section": 2,
-    "tags": ["slavery", "equal", "representation", "male", "sufferage"],
+    "tags": ["slavery", "equal", "representation", "male", "suffrage"],
     "ratification": "1868-07-09",
     "text": "Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.",
     "relevantAmendments": [
@@ -934,7 +934,7 @@
     "loc": "amendments",
     "article": 14,
     "section": 3,
-    "tags": ["Insurrection"],
+    "tags": ["insurrection"],
     "ratification": "1868-07-09",
     "text": "No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability."
 }
@@ -955,4 +955,150 @@
     "tags": [],
     "ratification": "1868-07-09",
     "text": "The Congress shall have power to enforce, by appropriate legislation, the provisions of this article."
+}
+{
+    "_id": "Amendment XV",
+    "loc": "amendments",
+    "article": 15,
+    "tags": [],
+    "ratification": "1870-02-03",
+    "text": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.\n\nThe Congress shall have power to enforce this article by appropriate legislation."
+}
+{
+    "_id": "Amendment XVI",
+    "loc": "amendments",
+    "article": 16,
+    "tags": ["tax"],
+    "text": "The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration."
+}
+{
+    "_id": "Amendment XVII",
+    "loc": "amendments",
+    "article": 17,
+    "section": 1,
+    "tags": ["senate", "election", "qualification"],
+    "ratification": "1913-04-08",
+    "text": "The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures."
+}
+{
+    "_id": "Amendment XVII",
+    "loc": "amendments",
+    "article": 17,
+    "section": 2,
+    "tags": ["senate", "vacancy"],
+    "ratification": "1913-04-08",
+    "text": "When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies:  Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct."
+}
+{
+    "_id": "Amendment XVII",
+    "loc": "amendments",
+    "article": 17,
+    "section": 3,
+    "tags": ["senate"],
+    "ratification": "1913-04-08",
+    "text": "This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution."
+}
+{
+    "_id": "Amendment XVIII",
+    "loc": "amendments",
+    "article": 18,
+    "section": 1,
+    "tags": ["Prohibition", "start", "liquor"],
+    "ratification": "1919-01-16",
+    "text": "After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited."
+}
+{
+    "_id": "Amendment XVIII",
+    "loc": "amendments",
+    "article": 18,
+    "section": 2,
+    "tags": ["Prohibition", "liquor", "enforcement"],
+    "ratification": "1919-01-16",
+    "text": "The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.",
+    "relevantAmendments":
+    [
+        {
+            "amendment": 21,
+            "section": 1
+        }
+    ]
+}
+{
+    "_id": "Amendment XVIII",
+    "loc": "amendments",
+    "article": 18,
+    "section": 3,
+    "tags": ["Prohibition", "liquor", "timeline"],
+    "ratification": "1919-01-16",
+    "text": "This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.",
+    "relevantAmendments":
+    [
+        {
+            "amendment": 21,
+            "section": 1
+        }
+    ]
+}
+{
+    "_id": "Amendment XIX",
+    "loc": "amendments",
+    "article": 19,
+    "tags": ["universal", "suffrage", "vote"],
+    "ratification": "1919-06-04",
+    "text": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.\n\nCongress shall have power to enforce this article by appropriate legislation.",
+    "relevantAmendments": [{"amendment": 21, "section": 1}]
+}
+{
+    "_id": "Amendment XX",
+    "loc": "amendments",
+    "article": 20,
+    "section": 1,
+    "tags": ["term", "president", "vice"],
+    "ratification": "1933-01-23",
+    "text": "The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin."
+}
+{
+    "_id": "Amendment XX",
+    "loc": "amendments",
+    "article": 20,
+    "section": 2,
+    "tags": ["session", "congress"],
+    "ratification": "1933-01-23",
+    "text": "The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day."
+}
+{
+    "_id": "Amendment XX",
+    "loc": "amendments",
+    "article": 20,
+    "section": 3,
+    "tags": ["vacancy", "president"],
+    "ratification": "1933-01-23",
+    "text": "If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified."
+}
+{
+    "_id": "Amendment XX",
+    "loc": "amendments",
+    "article": 20,
+    "section": 4,
+    "tags": ["congress", "succession"],
+    "ratification": "1933-01-23",
+    "text": "The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them."
+}
+{
+    "_id": "Amendment XX",
+    "loc": "amendments",
+    "article": 20,
+    "section": 5,
+    "tags": [],
+    "ratification": "1933-01-23",
+    "text": "Sections 1 and 2 shall take effect on the 15th day of October following the ratification of this article."
+}
+{
+    "_id": "Amendment XX",
+    "loc": "amendments",
+    "article": 20,
+    "section": 6,
+    "tags": ["session", "congress", "vacancy"],
+    "ratification": "1933-01-23",
+    "text": "This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission."
 }
